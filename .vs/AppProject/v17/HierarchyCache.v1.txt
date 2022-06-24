@@ -1,0 +1,238 @@
+﻿++Solution 'AppProject' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:AppProject.sln
+++AppProject
+i:{00000000-0000-0000-0000-000000000000}:AppProject
+++Properties
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\properties\
+++References
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++App.config
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\app.config
+++Beli.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\beli.cs
+++CekVerif.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\cekverif.cs
+++CekVerif.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\cekverif.designer.cs
+++CekVerif.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\cekverif.resx
+++CekVerif2.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\cekverif2.cs
+++CekVerif2.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\cekverif2.designer.cs
+++CekVerif2.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\cekverif2.resx
+++Customer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\customer.cs
+++DASHBOARD.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\dashboard.cs
+++deskripsi.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\deskripsi.cs
+++deskripsi.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\deskripsi.designer.cs
+++deskripsi.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\deskripsi.resx
+++EMPLOYEE.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\employee.cs
+++Form1.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\form1.cs
+++FormLogin.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\formlogin.cs
+++FormLogin2.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\formlogin2.cs
+++Gcus.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gcus.cs
+++Gdet.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gdet.cs
+++GEmplo.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gemplo.cs
+++GTrans.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gtrans.cs
+++GVechi.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gvechi.cs
+++home.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\home.cs
+++HOME2.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\home2.cs
+++kendaraan2.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\kendaraan2.cs
+++lupa.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\lupa.cs
+++packages.config
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\packages.config
+++Program.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\program.cs
+++Signup.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\signup.cs
+++TRANSACTION.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\transaction.cs
+++transaksi2.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\transaksi2.cs
+++VEHICLE.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\vehicle.cs
+++waiting.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\waiting.cs
+++waiting.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\waiting.designer.cs
+++waiting.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\waiting.resx
+++Welcome.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\welcome.cs
+++AssemblyInfo.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\properties\assemblyinfo.cs
+++Resources.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\properties\resources.resx
+++Settings.settings
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\properties\settings.settings
+++Microsoft.Bcl.AsyncInterfaces
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++Microsoft.Bcl.HashCode
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++Microsoft.CSharp
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++Npgsql
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Buffers
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Collections.Immutable
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Core
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Data
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Data.DataSetExtensions
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Deployment
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Diagnostics.DiagnosticSource
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Drawing
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Memory
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Net.Http
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Numerics
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Numerics.Vectors
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Runtime.CompilerServices.Unsafe
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Text.Encodings.Web
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Text.Json
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Threading.Channels
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Threading.Tasks.Extensions
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.ValueTuple
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Windows.Forms
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Xml
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++System.Xml.Linq
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:
+++Beli.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\beli.designer.cs
+++Beli.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\beli.resx
+++Customer.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\customer.designer.cs
+++Customer.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\customer.resx
+++DASHBOARD.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\dashboard.designer.cs
+++DASHBOARD.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\dashboard.resx
+++EMPLOYEE.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\employee.designer.cs
+++EMPLOYEE.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\employee.resx
+++Form1.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\form1.designer.cs
+++Form1.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\form1.resx
+++FormLogin.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\formlogin.designer.cs
+++FormLogin.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\formlogin.resx
+++FormLogin2.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\formlogin2.designer.cs
+++FormLogin2.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\formlogin2.resx
+++Gcus.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gcus.designer.cs
+++Gcus.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gcus.resx
+++Gdet.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gdet.designer.cs
+++Gdet.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gdet.resx
+++GEmplo.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gemplo.designer.cs
+++GEmplo.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gemplo.resx
+++GTrans.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gtrans.designer.cs
+++GTrans.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gtrans.resx
+++GVechi.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gvechi.designer.cs
+++GVechi.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gvechi.resx
+++home.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\home.designer.cs
+++home.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\home.resx
+++HOME2.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\home2.designer.cs
+++HOME2.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\home2.resx
+++kendaraan2.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\kendaraan2.designer.cs
+++kendaraan2.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\kendaraan2.resx
+++lupa.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\lupa.designer.cs
+++lupa.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\lupa.resx
+++Signup.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\signup.designer.cs
+++Signup.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\signup.resx
+++TRANSACTION.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\transaction.designer.cs
+++TRANSACTION.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\transaction.resx
+++transaksi2.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\transaksi2.designer.cs
+++transaksi2.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\transaksi2.resx
+++VEHICLE.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\vehicle.designer.cs
+++VEHICLE.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\vehicle.resx
+++Welcome.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\welcome.designer.cs
+++Welcome.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\welcome.resx
+++Resources.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\properties\settings.designer.cs
+++Admin.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\admin.cs
+++Admin.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\admin.designer.cs
+++Admin.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\admin.resx
+++Gpembayaran.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gpembayaran.cs
+++Gpembayaran.Designer.cs
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gpembayaran.designer.cs
+++Gpembayaran.resx
+i:{05e5e0c4-2b89-4c65-a67f-8bf62a830271}:d:\belajar pbo\appproject\appproject\gpembayaran.resx
